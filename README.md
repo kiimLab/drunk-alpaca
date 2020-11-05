@@ -1,2 +1,7 @@
-# drunk-alpaca
-## Slack App "Alpaca"
+# Slack App "Alpaca" 
+
+- [Block Kit](https://api.slack.com/block-kit)
+
+_Published October, 2020_
+
+---
